@@ -1,0 +1,27 @@
+table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+/* háttérszín beállítása*/
+body{
+    background-color: lightgray;
+}
+
+#zold{
+    background-color: green;
+}
+#sarga{
+    background-color: yellow;
+}
+#piros{
+    background-color: red;
+}
+#kek{
+    background-color: blue;
+}
+.zold{
+    background-color: green;
+}
+.kek{
+    background-color: blue;
+}
